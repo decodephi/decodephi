@@ -41,14 +41,6 @@
   <img src="https://pytorch.org/assets/images/pytorch-logo.png" width="40"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decodephi&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decodephi&layout=compact" height="160"/>
-</p>
 
 
 ⭐ *“Keep building, keep learning, keep improving.”*
